@@ -34,6 +34,10 @@ Building tools that bridge trading strategies with modern technology.
 
 ## Stats
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gn00295120&theme=flat&no-frame=true&no-bg=true&column=7" />
+</p>
+
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=gn00295120&show_icons=true&theme=default&hide_border=true&count_private=true" /><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gn00295120&layout=compact&theme=default&hide_border=true" />
 
 <picture>
