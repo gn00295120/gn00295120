@@ -235,23 +235,29 @@ Building [iztro](https://github.com/gn00295120/iztro) - Purple Star Astrology ch
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://lucas-futures.com">
-<img src="https://img.shields.io/badge/Website-lucas--futures.com-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Website-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<br/><sub>Explore my platform</sub>
+<br/><sub>lucas-futures.com</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="mailto:support@lucas-futures.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br/><sub>support@lucas-futures.com</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://x.com/lukashanren1">
-<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <br/><sub>@lukashanren1</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://t.me/LucasFuturesChannel">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<br/><sub>@LucasFuturesChannel</sub>
 </td>
 </tr>
 </table>
