@@ -243,6 +243,9 @@ Building [iztro](https://github.com/gn00295120/iztro) - Purple Star Astrology ch
 <a href="mailto:support@lucas-futures.com">
   <img src="https://img.shields.io/badge/📧_Email-support@lucas--futures.com-EA4335?style=for-the-badge" />
 </a>
+<a href="https://x.com/lukashanren1">
+  <img src="https://img.shields.io/badge/𝕏_Twitter-@lukashanren1-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 <br/><br/>
 
