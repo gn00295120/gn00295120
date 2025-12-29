@@ -102,6 +102,24 @@ Bonds:      Index futures
 </tr>
 </table>
 
+### 💎 Subscription Plans
+
+<div align="center">
+
+| Plan | Price | Best For | Includes |
+|:----:|:-----:|:---------|:---------|
+| **Basic** | `$24.90/mo` | Beginners | Trading Dashboard, Day-Report AI, Line Group |
+| **Pro** ⭐ | `$49.90/mo` | Active Traders | All Basic + Advanced Courses, Monthly 1-on-1, Exclusive Livestreams |
+| **VIP** | `$99.99/mo` | Professionals | All Pro + VIP Group, Unlimited Consults, Priority Support |
+
+<sub>💡 Save 20% with annual billing · All prices in USD</sub>
+
+<a href="https://subscribe.lucas-futures.com">
+  <img src="https://img.shields.io/badge/View_All_Plans-Subscribe_Now-0969DA?style=for-the-badge" />
+</a>
+
+</div>
+
 ### 🛠️ Developer Tools (Free & Open Source)
 
 | Tool | Description | Tech | Status |
