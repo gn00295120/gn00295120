@@ -231,31 +231,43 @@ Building [iztro](https://github.com/gn00295120/iztro) - Purple Star Astrology ch
 
 ---
 
+## 🤝 Let's Connect
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://lucas-futures.com">
+<img src="https://img.shields.io/badge/Website-lucas--futures.com-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<br/><sub>Explore my platform</sub>
+</td>
+<td align="center" width="33%">
+<a href="mailto:support@lucas-futures.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><sub>support@lucas-futures.com</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://x.com/lukashanren1">
+<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<br/><sub>@lukashanren1</sub>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-### 🤝 Let's Connect
+#### 💼 Open to Opportunities
 
-*Interested in quantitative trading, AI integration, or collaboration?*
-
-<a href="https://lucas-futures.com">
-  <img src="https://img.shields.io/badge/🌐_Website-lucas--futures.com-0969DA?style=for-the-badge" />
-</a>
-<a href="mailto:support@lucas-futures.com">
-  <img src="https://img.shields.io/badge/📧_Email-support@lucas--futures.com-EA4335?style=for-the-badge" />
-</a>
-<a href="https://x.com/lukashanren1">
-  <img src="https://img.shields.io/badge/𝕏_Twitter-@lukashanren1-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Open to:**
-`Consulting` `Collaboration` `Speaking` `Teaching` `Partnership`
+![Consulting](https://img.shields.io/badge/Consulting-4CAF50?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Collaboration-2196F3?style=flat-square)
+![Speaking](https://img.shields.io/badge/Speaking-9C27B0?style=flat-square)
+![Teaching](https://img.shields.io/badge/Teaching-FF9800?style=flat-square)
+![Partnership](https://img.shields.io/badge/Partnership-E91E63?style=flat-square)
 
 ---
 
-<sub>⚡ Powered by algorithmic thinking and continuous learning</sub>
-
-<sub>Last updated: December 2024</sub>
+*⚡ Powered by algorithmic thinking and continuous learning*
 
 </div>
