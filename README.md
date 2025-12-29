@@ -238,13 +238,16 @@ Building [iztro](https://github.com/gn00295120/iztro) - Purple Star Astrology ch
 *Interested in quantitative trading, AI integration, or collaboration?*
 
 <a href="https://lucas-futures.com">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Website-lucas--futures.com-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Website-lucas--futures.com-0969DA?style=for-the-badge" />
+</a>
+<a href="mailto:support@lucas-futures.com">
+  <img src="https://img.shields.io/badge/📧_Email-support@lucas--futures.com-EA4335?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
 **Open to:**
-`Consulting` `Collaboration` `Speaking` `Teaching`
+`Consulting` `Collaboration` `Speaking` `Teaching` `Partnership`
 
 ---
 
