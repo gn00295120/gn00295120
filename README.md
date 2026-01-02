@@ -168,7 +168,7 @@ Tailored trading<br/>systems
 **Process:** Idea → Design → Development → Testing → Deployment → Maintenance
 
 <div align="center">
-<a href="mailto:support@lucas-futures.com">
+<a href="https://class.lucas-futures.com">
   <img src="https://img.shields.io/badge/Contact_for_Quote-Get_Started-4CAF50?style=for-the-badge" />
 </a>
 </div>
