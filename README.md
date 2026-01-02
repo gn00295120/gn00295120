@@ -268,6 +268,10 @@ Calendar · YouTube · Social · App Store · Crypto · Scanner
 
 <img src="https://github-profile-trophy.vercel.app/?username=gn00295120&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gn00295120&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
 ---
