@@ -264,6 +264,30 @@ Calendar · YouTube · Social · App Store · Crypto · Scanner
 
 ---
 
+## 💖 Sponsors
+
+> *Thank you to all my sponsors for supporting my open source work!*
+
+<table>
+<tr>
+<td align="center" width="100px">
+<a href="https://buy.stripe.com/6oU6oJcin9jucOZgPZdMI01">
+<img src="https://img.shields.io/badge/Your_Name_Here-Be_First!-FFDD00?style=for-the-badge" />
+</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://buy.stripe.com/6oU6oJcin9jucOZgPZdMI01">
+  <img src="https://img.shields.io/badge/Become_a_Sponsor-Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <table>
