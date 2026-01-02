@@ -256,11 +256,24 @@ Calendar · YouTube · Social · App Store · Crypto · Scanner
 
 ## 📈 GitHub Activity
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gn00295120/gn00295120/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gn00295120/gn00295120/output/github-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gn00295120/gn00295120/output/github-snake.svg" />
 </picture>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gn00295120&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gn00295120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gn00295120&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
