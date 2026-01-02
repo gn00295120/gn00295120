@@ -266,12 +266,12 @@ Calendar · YouTube · Social · App Store · Crypto · Scanner
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gn00295120&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gn00295120&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gn00295120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gn00295120&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=gn00295120&theme=tokyonight&hide_border=true" />
 
 </div>
 
