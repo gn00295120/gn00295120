@@ -293,6 +293,24 @@ Calendar · YouTube · Social · App Store · Crypto · Scanner
 <br/><sub>@LucasFuturesChannel</sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/sponsors/gn00295120">
+<img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</a>
+<br/><sub>Sponsor me</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://buy.stripe.com/6oU6oJcin9jucOZgPZdMI01">
+<img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+<br/><sub>Support my work</sub>
+</td>
+<td align="center" width="25%">
+</td>
+<td align="center" width="25%">
+</td>
+</tr>
 </table>
 
 <div align="center">
