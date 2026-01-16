@@ -92,11 +92,33 @@ Building professional trading infrastructure:
 
 ## Work With Me
 
-| Service | For | Contact |
-|:-------:|:---:|:-------:|
-| **Technical Advisor** | Teams & Enterprises | Hourly / Retainer |
-| **Project Development** | Clear requirements | Fixed Quote |
-| **1-on-1 Consulting** | Individuals | Per Session |
+### 💼 Consulting Services
+| Service | Description |
+|:--------|:------------|
+| **Technical Advisor** | 架構設計、技術選型、程式碼審查 |
+| **Project Development** | 完整開發、功能開發、系統整合 |
+| **1-on-1 Consulting** | 問題診斷、方向建議、職涯諮詢 |
+| **AI Integration** | AI 工具導入、自動化流程、效率優化 |
+
+[![Services](https://img.shields.io/badge/View_All_Services-lucas--futures.com-10B981?style=for-the-badge)](https://lucas-futures.com/#services)
+
+### 🚀 VibeCoding 教學陪跑
+| Plan | Price | Features |
+|:-----|:-----:|:---------|
+| **Community** | $25/mo | Discord/LINE 社群、隨時提問 |
+| **Coaching** | $99/session | 60 分鐘視訊、螢幕共享 |
+| **Monthly** | $499/mo | 每週視訊、全程陪跑到上線 |
+
+[![VibeCoding](https://img.shields.io/badge/VibeCoding-class.lucas--futures.com-6366F1?style=for-the-badge)](https://class.lucas-futures.com)
+
+### 📊 Trading Subscription
+| Plan | Price | Highlights |
+|:-----|:-----:|:-----------|
+| **Starter** | $24.90/mo | Day-Report AI、Line 群組 |
+| **Pro** | $49.90/mo | Trading Dashboard、每月 1 次諮詢 |
+| **VIP** | $99.99/mo | 無限諮詢、策略實作指導 |
+
+[![Subscribe](https://img.shields.io/badge/Subscribe-subscribe.lucas--futures.com-F59E0B?style=for-the-badge)](https://subscribe.lucas-futures.com)
 
 <p align="center">
   <a href="mailto:support@claude-world.com">
