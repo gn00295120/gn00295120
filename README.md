@@ -54,18 +54,6 @@ Building professional trading infrastructure:
 
 ---
 
-## 💼 Work With Me
-
-| Service | For | Pricing |
-|---------|-----|---------|
-| **Technical Advisor** | Teams & Enterprises | Hourly / Retainer |
-| **Project Development** | Clear requirements | Fixed Quote |
-| **1-on-1 Consulting** | Individuals | Per Session |
-
-📧 **support@claude-world.com**
-
----
-
 <p align="center">
   <i>Open to collaborations on AI developer tools & trading systems</i>
 </p>
