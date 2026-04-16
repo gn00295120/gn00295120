@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Wang
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&width=600&lines=Quantitative+Trading+Developer;Claude+Code+Expert;Director+Mode+Author;Building+AI-Powered+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&width=600&lines=Quantitative+Trading+Developer;Claude+Code+Expert;Director+Mode+Author;Security+Researcher;Building+AI-Powered+Tools)](https://git.io/typing-svg)
 
 **Based in Taiwan** | Building intelligent trading systems and AI-powered developer tools
 
@@ -63,6 +63,64 @@ I created **[Director Mode](https://claude-world.com)** - a methodology that tra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+## 🔐 Security Research
+
+### 🏆 [HackerOne Profile](https://hackerone.com/lucasfutures?type=user)
+
+<p align="center">
+
+![Reputation](https://img.shields.io/badge/Reputation-597-0969DA?style=for-the-badge&logo=hackerone&logoColor=white)
+![Signal](https://img.shields.io/badge/Signal-4.46_(75th_%25ile)-success?style=for-the-badge&logo=hackerone&logoColor=white)
+![Impact](https://img.shields.io/badge/Impact-15.79_(80th_%25ile)-orange?style=for-the-badge&logo=hackerone&logoColor=white)
+![Resolved](https://img.shields.io/badge/Resolved_Reports-12-brightgreen?style=for-the-badge&logo=hackerone&logoColor=white)
+
+</p>
+
+### 📜 Published CVE
+
+| CVE | Description | Severity | Affected |
+|:----|:------------|:--------:|:---------|
+| [CVE-2026-34450](https://github.com/advisories?query=credit%3Agn00295120) | Insecure Default File Permissions in Anthropic Claude SDK (Python) | 🟡 Moderate | `anthropic` pip |
+
+### 🎖️ Hall of Fame
+
+> *Acknowledged by 16+ organizations for responsible disclosure*
+
+<p align="center">
+
+![X / xAI](https://img.shields.io/badge/X_/_xAI-000000?style=flat-square&logo=x&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![MSCI](https://img.shields.io/badge/MSCI-1D3661?style=flat-square&logoColor=white)
+![WisdomTree](https://img.shields.io/badge/WisdomTree-002F6C?style=flat-square&logoColor=white)
+![DailyPay](https://img.shields.io/badge/DailyPay-0066FF?style=flat-square&logoColor=white)
+![CoinMate](https://img.shields.io/badge/CoinMate.io-1B66D9?style=flat-square&logoColor=white)
+
+</p>
+
+### 🏅 Earned Badges
+
+`Bounty Hunter` · `TrailBlazer` · `Streaker` · `Greybeard` · `Insecticide` · `Good Samaritan` · `A3: Sensitive Data Exposure` · `A5: Broken Access Control` · `Diversity`
+
+---
+
+## 🌐 Open Source Contributions
+
+> *Security-focused contributions to major AI organizations*
+
+| Organization | Repository | Contribution |
+|:------------:|:-----------|:-------------|
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | [NVFlare](https://github.com/NVIDIA/NVFlare) | Safe deserialization for `torch.load` / `np.load` |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | [garak](https://github.com/NVIDIA/garak) | Parameterized SQL queries (SQL injection fix) |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | [GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) | Pin liteLLM to mitigate supply chain attack |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | [NemoClaw](https://github.com/NVIDIA/NemoClaw) | Dockerfile code injection fix · credential leak · path traversal |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | [openai-agents-python](https://github.com/openai/openai-agents-python) | Pin liteLLM to mitigate supply chain attack |
 
 ---
 
