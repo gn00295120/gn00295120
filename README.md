@@ -112,7 +112,7 @@ I created **[Director Mode](https://claude-world.com)** - a methodology that tra
 
 ## 🌐 Open Source Contributions
 
-> *Security-focused contributions to major AI organizations*
+> *Security-focused contributions to major technology organizations*
 
 | Organization | Repository | Contribution |
 |:------------:|:-----------|:-------------|
@@ -121,6 +121,7 @@ I created **[Director Mode](https://claude-world.com)** - a methodology that tra
 | ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | [GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) | Pin liteLLM to mitigate supply chain attack |
 | ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | [NemoClaw](https://github.com/NVIDIA/NemoClaw) | Dockerfile code injection fix · credential leak · path traversal |
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | [openai-agents-python](https://github.com/openai/openai-agents-python) | Pin liteLLM to mitigate supply chain attack |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | [Draco](https://github.com/google/draco) | Heap OOB read fixes in PLY/STL decoders · invalid pointer dereference fix in OBJ decoder |
 
 ---
 
