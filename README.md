@@ -97,9 +97,9 @@ Live reputation / signal / impact: see the [public H1 profile](https://hackerone
 
 ### Featured Bounty
 
-| Organization | Bounty | Finding | Severity | Status |
-|:-------------|-------:|:--------|:--------:|:------:|
-| [X / xAI](https://hackerone.com/x?type=team) | **$20,000** | Server-side arbitrary file read via `text_file` ContentPart | **Critical · CVSS 10.0** | Resolved · Apr 22, 2026 |
+| Organization | Bounty | Public status |
+|:-------------|-------:|:-------------:|
+| [X / xAI](https://hackerone.com/x?type=team) | **$20,000** | Resolved |
 
 ### Published CVE
 
@@ -111,14 +111,13 @@ Live reputation / signal / impact: see the [public H1 profile](https://hackerone
 
 ### Public HackerOne Acknowledgements
 
-> **49 thanks** across publicly listed programs. Organization names below are visible on the public profile; confidential report details remain private.
+> **49 thanks received** · **26 programs publicly named**. Only organization names visible to signed-out visitors are listed; confidential program and report details remain private.
 
 | Area | Organizations |
 |:-----|:--------------|
-| **AI, cloud & developer platforms** | [Anthropic](https://hackerone.com/anthropic?type=team) · [AWS](https://hackerone.com/aws_vdp?type=team) · [Cloudflare](https://hackerone.com/cloudflare?type=team) · [Elastic](https://hackerone.com/elastic?type=team) · [IBM](https://hackerone.com/ibm?type=team) · [GitLab](https://hackerone.com/gitlab?type=team) · [Vercel](https://hackerone.com/vercel-open-source?type=team) · [WordPress](https://hackerone.com/wordpress?type=team) · [Dynatrace](https://hackerone.com/dynatrace?type=team) · [Workato](https://hackerone.com/workato?type=team) · [Acronis](https://hackerone.com/acronis?type=team) · [Cloud Software Group](https://hackerone.com/csg-public?type=team) · [RudderStack](https://hackerone.com/rudderstack?type=team) · [Celigo](https://hackerone.com/celigo?type=team) · [monday.com](https://hackerone.com/monday_com?type=team) |
-| **Consumer, media & commerce** | [Spotify](https://hackerone.com/spotify?type=team) · [X / xAI](https://hackerone.com/x?type=team) · [Coupang Taiwan](https://hackerone.com/coupang_tw?type=team) · [Udemy](https://hackerone.com/udemy?type=team) · [Nintendo](https://hackerone.com/nintendo-server?type=team) · [OPPO](https://hackerone.com/oppo_bbp?type=team) · [Xiaomi](https://hackerone.com/xiaomi?type=team) · [Goodnotes](https://hackerone.com/goodnotes?type=team) · [Fandom](https://hackerone.com/fandom_bbp?type=team) · [Bose](https://hackerone.com/bose_vdp?type=team) · [Grindr](https://hackerone.com/grindr?type=team) · [Thumbtack](https://hackerone.com/thumbtack?type=team) · [Cambly](https://hackerone.com/cambly?type=team) · [zooplus](https://hackerone.com/zooplus?type=team) · [Adevinta](https://hackerone.com/adevinta?type=team) · [Cloud Imperium Games](https://hackerone.com/cloud-imperium-games?type=team) |
-| **Finance & enterprise** | [MUFG](https://hackerone.com/mufg-bbp?type=team) · [MSCI](https://hackerone.com/msci?type=team) · [DailyPay](https://hackerone.com/dailypay_bbp?type=team) · [WisdomTree](https://hackerone.com/wisdomtree?type=team) · [Circle](https://hackerone.com/circle-bbp?type=team) · [Payroc](https://hackerone.com/payroc?type=team) · [Exness](https://hackerone.com/exness?type=team) · [CoinMate.io](https://hackerone.com/coinmate?type=team) · [AlphaSense](https://hackerone.com/alphasense_bbp?type=team) · [Pigment](https://hackerone.com/pigment?type=team) · [Athora Netherlands](https://hackerone.com/athora_netherlands?type=team) · [Recharge](https://hackerone.com/recharge?type=team) · [ParkBee](https://hackerone.com/parkbee_bv?type=team) |
-| **Health & other platforms** | [SolvHealth](https://hackerone.com/solvhealth?type=team) · [Generate Biomedicines](https://hackerone.com/generate_biomedicines_bbp?type=team) · [Logo Yazılım](https://hackerone.com/logo_yazilim?type=team) |
+| **AI, cloud & developer platforms** | [Anthropic](https://hackerone.com/anthropic?type=team) · [AWS](https://hackerone.com/aws_vdp?type=team) · [Cloudflare](https://hackerone.com/cloudflare?type=team) · [Elastic](https://hackerone.com/elastic?type=team) · [IBM](https://hackerone.com/ibm?type=team) · [GitLab](https://hackerone.com/gitlab?type=team) · [Vercel](https://hackerone.com/vercel-open-source?type=team) · [WordPress](https://hackerone.com/wordpress?type=team) · [Dynatrace](https://hackerone.com/dynatrace?type=team) · [Acronis](https://hackerone.com/acronis?type=team) · [Cloud Software Group](https://hackerone.com/csg-public?type=team) |
+| **Consumer, media & commerce** | [Spotify](https://hackerone.com/spotify?type=team) · [X / xAI](https://hackerone.com/x?type=team) · [Coupang Taiwan](https://hackerone.com/coupang_tw?type=team) · [Udemy](https://hackerone.com/udemy?type=team) · [OPPO](https://hackerone.com/oppo_bbp?type=team) · [Xiaomi](https://hackerone.com/xiaomi?type=team) · [Bose](https://hackerone.com/bose_vdp?type=team) · [Grindr](https://hackerone.com/grindr?type=team) · [zooplus](https://hackerone.com/zooplus?type=team) |
+| **Finance & enterprise** | [MSCI](https://hackerone.com/msci?type=team) · [DailyPay](https://hackerone.com/dailypay_vdp?type=team) · [WisdomTree](https://hackerone.com/wisdomtree?type=team) · [Circle](https://hackerone.com/circle-bbp?type=team) · [Exness](https://hackerone.com/exness?type=team) · [CoinMate.io](https://hackerone.com/coinmate?type=team) |
 
 ### Badges
 
