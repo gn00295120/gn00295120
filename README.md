@@ -99,7 +99,7 @@ Live reputation / signal / impact: see the [public H1 profile](https://hackerone
 
 | Organization | Bounty | Finding | Severity | Status |
 |:-------------|-------:|:--------|:--------:|:------:|
-| [X / xAI](https://hackerone.com/x?type=team) | **$20,000** | [Server-side arbitrary file read via `text_file` ContentPart](https://hackerone.com/reports/3637958) | **Critical · CVSS 10.0** | Resolved · Apr 22, 2026 |
+| [X / xAI](https://hackerone.com/x?type=team) | **$20,000** | Server-side arbitrary file read via `text_file` ContentPart | **Critical · CVSS 10.0** | Resolved · Apr 22, 2026 |
 
 ### Published CVE
 
