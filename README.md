@@ -101,13 +101,16 @@ Live reputation / signal / impact: see the [public H1 profile](https://hackerone
 |:-------------|-------:|:-------------:|
 | [X / xAI](https://hackerone.com/x?type=team) | **$20,000** | Resolved |
 
-### Published CVE
+### Published CVEs
 
-| CVE | Advisory | Severity | Package | Summary |
-|:----|:---------|:--------:|:--------|:--------|
-| [CVE-2026-73851](https://nvd.nist.gov/vuln/detail/CVE-2026-73851) | [GHSA-p5rm-jg5c-8c77](https://github.com/advisories/GHSA-p5rm-jg5c-8c77) | Medium | [`Microsoft.OpenApi.Kiota` (NuGet)](https://github.com/microsoft/kiota) | Path traversal via percent-encoded plugin manifest file references · credited to **gn00295120** · fixed in **v1.29.1 / v1.34.0** |
-| [CVE-2026-41686](https://nvd.nist.gov/vuln/detail/CVE-2026-41686) | [GHSA-p7fg-763f-g4gf](https://github.com/advisories/GHSA-p7fg-763f-g4gf) | Medium | [`@anthropic-ai/sdk` (TypeScript)](https://github.com/anthropics/anthropic-sdk-typescript) | Insecure default file permissions in local filesystem memory tool · credited to **lucasfutures** · fixed in **v0.91.1** |
-| [CVE-2026-34450](https://nvd.nist.gov/vuln/detail/CVE-2026-34450) | [GHSA-q5f5-3gjm-7mfm](https://github.com/advisories/GHSA-q5f5-3gjm-7mfm) | Medium | [`anthropic` (Python)](https://github.com/anthropics/anthropic-sdk-python) | Insecure default file permissions in local filesystem memory tool · credited to **lucasfutures** · fixed in **v0.87.0** |
+| Date | CVE | Advisory | Severity | Package | Summary |
+|:----:|:----|:---------|:--------:|:--------|:--------|
+| 2026-08 | [CVE-2026-56854](https://nvd.nist.gov/vuln/detail/CVE-2026-56854) | [GO-2026-6303](https://pkg.go.dev/vuln/GO-2026-6303) | High | [`golang.org/x/crypto/ssh`](https://pkg.go.dev/golang.org/x/crypto/ssh) | SSH `source-address` restrictions bypassed for multiple authentication callbacks · credited to **Longwei Wang** · fixed in **v0.55.0** |
+| 2026-07 | [CVE-2026-73851](https://nvd.nist.gov/vuln/detail/CVE-2026-73851) | [GHSA-p5rm-jg5c-8c77](https://github.com/advisories/GHSA-p5rm-jg5c-8c77) | Medium | [`Microsoft.OpenApi.Kiota` (NuGet)](https://github.com/microsoft/kiota) | Path traversal via percent-encoded plugin manifest file references · credited to **gn00295120** · fixed in **v1.29.1 / v1.34.0** |
+| 2026-06 | [CVE-2026-46601](https://nvd.nist.gov/vuln/detail/CVE-2026-46601) | [GO-2026-5061](https://pkg.go.dev/vuln/GO-2026-5061) | High | [`golang.org/x/image/webp`](https://pkg.go.dev/golang.org/x/image/webp) | VP8/WebP dimension mismatch can panic the decoder · credited to **Lucas Futures** · fixed in **v0.43.0** |
+| 2026-05 | [CVE-2026-39821](https://nvd.nist.gov/vuln/detail/CVE-2026-39821) | [GO-2026-5026](https://pkg.go.dev/vuln/GO-2026-5026) | Critical | [`golang.org/x/net/idna`](https://pkg.go.dev/golang.org/x/net/idna) | ASCII-only Punycode labels can bypass hostname privilege checks · jointly credited to **KC1zs4** and **Longwei Wang** · fixed in **v0.55.0** |
+| 2026-04 | [CVE-2026-41686](https://nvd.nist.gov/vuln/detail/CVE-2026-41686) | [GHSA-p7fg-763f-g4gf](https://github.com/advisories/GHSA-p7fg-763f-g4gf) | Medium | [`@anthropic-ai/sdk` (TypeScript)](https://github.com/anthropics/anthropic-sdk-typescript) | Insecure default file permissions in local filesystem memory tool · credited to **lucasfutures** · fixed in **v0.91.1** |
+| 2026-04 | [CVE-2026-34450](https://nvd.nist.gov/vuln/detail/CVE-2026-34450) | [GHSA-q5f5-3gjm-7mfm](https://github.com/advisories/GHSA-q5f5-3gjm-7mfm) | Medium | [`anthropic` (Python)](https://github.com/anthropics/anthropic-sdk-python) | Insecure default file permissions in local filesystem memory tool · credited to **lucasfutures** · fixed in **v0.87.0** |
 
 ### Public HackerOne Acknowledgements
 
