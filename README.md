@@ -84,9 +84,14 @@ More under **[@claude-world](https://github.com/claude-world)** · examples & gu
 <p align="center">
 
 [![HackerOne Profile](https://img.shields.io/badge/HackerOne-lucasfutures-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/lucasfutures?type=user)
-![Resolved](https://img.shields.io/badge/Resolved_Reports-12+-brightgreen?style=for-the-badge&logo=hackerone&logoColor=white)
+[![2026 Global Rank](https://img.shields.io/badge/2026_Global_Rank-%23100-0969DA?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/leaderboard/reputation?year=2026&tab=bbp&userTypeTab=individual)
+[![2026 Taiwan Rank](https://img.shields.io/badge/2026_Taiwan_Rank-%231-10B981?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/leaderboard/country?year=2026&country=TW&tab=bbp&userTypeTab=individual)
+[![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities_Found-56-F59E0B?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/lucasfutures?type=user)
+[![Thanks](https://img.shields.io/badge/Thanks_Received-49-8B5CF6?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/lucasfutures?type=user)
 
 </p>
+
+**2026 HackerOne Bounty · Individuals:** Global Highest Reputation **#100** · Taiwan **#1** *(verified September 25, 2026; rankings change over time)*.
 
 Live reputation / signal / impact: see the [public H1 profile](https://hackerone.com/lucasfutures?type=user).
 
@@ -98,24 +103,16 @@ Live reputation / signal / impact: see the [public H1 profile](https://hackerone
 | [CVE-2026-41686](https://nvd.nist.gov/vuln/detail/CVE-2026-41686) | [GHSA-p7fg-763f-g4gf](https://github.com/advisories/GHSA-p7fg-763f-g4gf) | Medium | [`@anthropic-ai/sdk` (TypeScript)](https://github.com/anthropics/anthropic-sdk-typescript) | Insecure default file permissions in local filesystem memory tool · credited to **lucasfutures** · fixed in **v0.91.1** |
 | [CVE-2026-34450](https://nvd.nist.gov/vuln/detail/CVE-2026-34450) | [GHSA-q5f5-3gjm-7mfm](https://github.com/advisories/GHSA-q5f5-3gjm-7mfm) | Medium | [`anthropic` (Python)](https://github.com/anthropics/anthropic-sdk-python) | Insecure default file permissions in local filesystem memory tool · credited to **lucasfutures** · fixed in **v0.87.0** |
 
-### Hall of Fame
+### Public HackerOne Acknowledgements
 
-> Acknowledged by **16+** organizations for responsible disclosure
+> **49 thanks** across publicly listed programs. Organization names below are visible on the public profile; confidential report details remain private.
 
-<p align="center">
-
-![X / xAI](https://img.shields.io/badge/X_/_xAI-000000?style=flat-square&logo=x&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
-![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![MSCI](https://img.shields.io/badge/MSCI-1D3661?style=flat-square&logoColor=white)
-![WisdomTree](https://img.shields.io/badge/WisdomTree-002F6C?style=flat-square&logoColor=white)
-![DailyPay](https://img.shields.io/badge/DailyPay-0066FF?style=flat-square&logoColor=white)
-![CoinMate](https://img.shields.io/badge/CoinMate.io-1B66D9?style=flat-square&logoColor=white)
-
-</p>
+| Area | Organizations |
+|:-----|:--------------|
+| **AI, cloud & developer platforms** | [Anthropic](https://hackerone.com/anthropic?type=team) · [AWS](https://hackerone.com/aws_vdp?type=team) · [Cloudflare](https://hackerone.com/cloudflare?type=team) · [Elastic](https://hackerone.com/elastic?type=team) · [IBM](https://hackerone.com/ibm?type=team) · [GitLab](https://hackerone.com/gitlab?type=team) · [Vercel](https://hackerone.com/vercel-open-source?type=team) · [WordPress](https://hackerone.com/wordpress?type=team) · [Dynatrace](https://hackerone.com/dynatrace?type=team) · [Workato](https://hackerone.com/workato?type=team) · [Acronis](https://hackerone.com/acronis?type=team) · [Cloud Software Group](https://hackerone.com/csg-public?type=team) · [RudderStack](https://hackerone.com/rudderstack?type=team) · [Celigo](https://hackerone.com/celigo?type=team) · [monday.com](https://hackerone.com/monday_com?type=team) |
+| **Consumer, media & commerce** | [Spotify](https://hackerone.com/spotify?type=team) · [X / xAI](https://hackerone.com/x?type=team) · [Coupang Taiwan](https://hackerone.com/coupang_tw?type=team) · [Udemy](https://hackerone.com/udemy?type=team) · [Nintendo](https://hackerone.com/nintendo-server?type=team) · [OPPO](https://hackerone.com/oppo_bbp?type=team) · [Xiaomi](https://hackerone.com/xiaomi?type=team) · [Goodnotes](https://hackerone.com/goodnotes?type=team) · [Fandom](https://hackerone.com/fandom_bbp?type=team) · [Bose](https://hackerone.com/bose_vdp?type=team) · [Grindr](https://hackerone.com/grindr?type=team) · [Thumbtack](https://hackerone.com/thumbtack?type=team) · [Cambly](https://hackerone.com/cambly?type=team) · [zooplus](https://hackerone.com/zooplus?type=team) · [Adevinta](https://hackerone.com/adevinta?type=team) · [Cloud Imperium Games](https://hackerone.com/cloud-imperium-games?type=team) |
+| **Finance & enterprise** | [MUFG](https://hackerone.com/mufg-bbp?type=team) · [MSCI](https://hackerone.com/msci?type=team) · [DailyPay](https://hackerone.com/dailypay_bbp?type=team) · [WisdomTree](https://hackerone.com/wisdomtree?type=team) · [Circle](https://hackerone.com/circle-bbp?type=team) · [Payroc](https://hackerone.com/payroc?type=team) · [Exness](https://hackerone.com/exness?type=team) · [CoinMate.io](https://hackerone.com/coinmate?type=team) · [AlphaSense](https://hackerone.com/alphasense_bbp?type=team) · [Pigment](https://hackerone.com/pigment?type=team) · [Athora Netherlands](https://hackerone.com/athora_netherlands?type=team) · [Recharge](https://hackerone.com/recharge?type=team) · [ParkBee](https://hackerone.com/parkbee_bv?type=team) |
+| **Health & other platforms** | [SolvHealth](https://hackerone.com/solvhealth?type=team) · [Generate Biomedicines](https://hackerone.com/generate_biomedicines_bbp?type=team) · [Logo Yazılım](https://hackerone.com/logo_yazilim?type=team) |
 
 ### Badges
 
